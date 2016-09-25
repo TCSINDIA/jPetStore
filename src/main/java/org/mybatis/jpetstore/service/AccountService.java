@@ -24,6 +24,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * @author Eduardo Macarron
  * make changes to the local copy
+ * visual changes through Egit
  *
  */
 @Service
